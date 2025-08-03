@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 Currently learning **Backend with Node.js, Express, MongoDB**
-- 💼 Working on projects like: **Ecommerce Website**, **Online Exam System**, **Portfolio Website**
+- 💼 Working on projects like: **Ecommerce Website**, **Online Exam System**, **Portfolio Website**, **Job Portal Management System**
 - 👨‍🎓 Pursuing B.Tech from **Maharishi Markandeshwar University**
 - 💬 Ask me about: **React, JavaScript, MongoDB, REST APIs**
 - 📫 Contact me: **786mdsahilansari@gmail.com** | 📱 +91-8969348814
@@ -45,6 +45,7 @@
 |--------|-------------|------|------|
 | 🛍️ **Ecommerce Website** | Responsive shopping website built using HTML, CSS, JS | [Demo](#) | [Repo](https://github.com/786mdsahilansari/Ecommerce-Website) |
 | 📝 **Online Exam System** | Secure exam portal with dashboards for admin & students | Coming Soon | Coming Soon |
+| 💼 **Job Portal Management System** | MERN stack job board with login, listings, and role-based dashboard | Coming Soon | [Repo](https://github.com/786mdsahilansari/Job-Portal-Management-System) |
 | 🌐 **Portfolio Website** | Showcases my work, resume, and contact info | Coming Soon | Coming Soon |
 
 ---
