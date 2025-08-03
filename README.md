@@ -13,7 +13,7 @@
 - 💼 Working on projects like: **Ecommerce Website**, **Online Exam System**, **Portfolio Website**
 - 👨‍🎓 Pursuing B.Tech from **Maharishi Markandeshwar University**
 - 💬 Ask me about: **React, JavaScript, MongoDB, REST APIs**
-- 📫 Contact me: **contact@example.com** | 📱 +91-8969348814
+- 📫 Contact me: **786mdsahilansari@gmail.com** | 📱 +91-8969348814
 - ⚡ Fun fact: *I love building UI that feels alive and interactive!*
 
 ---
