@@ -7,7 +7,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - 🌱 Currently learning **Backend with Node.js, Express, MongoDB**
 - 💼 Working on projects like: **Ecommerce Website**, **Online Exam System**, **Portfolio Website**, **Job Portal Management System**
@@ -18,7 +18,19 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 Coding & CSE Department Vibes
+
+<p align="center">
+  <img src="https://i.ibb.co/Fw3RgpR/coding-banner.gif" alt="Coding Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Computer+Science+%7C+Coding+Life;Frontend+%26+MERN+Stack+Developer;Love+to+Build+Something+Awesome!" alt="Typing Animation" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,vscode,figma,postman" />
@@ -26,20 +38,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=786mdsahilansari&show_icons=true&theme=github_dark&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=786mdsahilansari&theme=github-dark" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=786mdsahilansari&theme=github-compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=786mdsahilansari&theme=onedark&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Live | Code |
 |--------|-------------|------|------|
@@ -50,20 +56,10 @@
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/md-sahil-ansari-94b8b0318" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
   <a href="mailto:786mdsahilansari@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
   <a href="https://github.com/786mdsahilansari" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
-</p>
-
----
-
-### 🧭 Live Profile Preview
-
-<p align="center">
-  <a href="https://github.com/786mdsahilansari" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Frontend+%7C+MERN+Stack+Developer;Let's+build+something+amazing+!" />
-  </a>
 </p>
