@@ -41,7 +41,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,vscode,figma,postman" />
 </p>
 
----
+
+
+---------
 
 ## 🏆 GitHub Trophies
 <p align="center">
