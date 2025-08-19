@@ -5,12 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=786mdsahilansari&label=Profile%20views&color=0e75b6&style=flat" alt="786mdsahilansari" />
 </p>
 
---------
-
-************************************************
-
-
-
+---
 
 ## 🧑‍💻 About Me
 
@@ -21,7 +16,7 @@
 - 📫 Contact me: **786mdsahilansari@gmail.com** | 📱 +91-8969348814
 - ⚡ Fun fact: *I love building UI that feels alive and interactive!*
 
---------
+---
 
 ## 💻 Coding & CSE Department Vibes
 
@@ -41,16 +36,24 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,vscode,figma,postman" />
 </p>
 
+---
 
+## 🏆 GitHub Trophies  
 
----------
-
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=786mdsahilansari&theme=onedark&no-frame=true&margin-w=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=786mdsahilansari&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
+---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=786mdsahilansari&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=786mdsahilansari&theme=onedark" alt="GitHub Streak" />
+</p>
 
 ---
 
