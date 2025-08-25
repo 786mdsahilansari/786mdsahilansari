@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sahil Ansari</h1>
 <h3 align="center">A passionate Front-End & MERN Stack Developer from India 🇮🇳</h3>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=786mdsahilansari&label=Profile%20views&color=0e75b6&style=flat" alt="786mdsahilansari" />
 </p>
@@ -24,11 +25,13 @@
   <img src="https://i.ibb.co/Fw3RgpR/coding-banner.gif" alt="Coding Banner" width="100%" />
 </p>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Computer+Science+%7C+Coding+Life;Frontend+%26+MERN+Stack+Developer;Love+to+Build+Something+Awesome!" alt="Typing Animation" />
 </p>
 
----
+---------------
 
 ## 🛠️ Tech Stack
 
