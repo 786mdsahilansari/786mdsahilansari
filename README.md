@@ -8,6 +8,7 @@
 
 -------------
 
+
 ## 🧑‍💻 About Me
 
 
@@ -25,6 +26,7 @@
 <p align="center">
   <img src="https://i.ibb.co/Fw3RgpR/coding-banner.gif" alt="Coding Banner" width="100%" />
 </p>
+
 
 
 
@@ -53,7 +55,7 @@
 </p>
 
 
----
+-----
 
 
 
