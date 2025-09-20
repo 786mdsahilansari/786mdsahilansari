@@ -43,7 +43,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Computer+Science+%7C+Coding+Life;Frontend+%26+MERN+Stack+Developer;Love+to+Build+Something+Awesome!" alt="Typing Animation" />
 </p>
 
-------
+--------
 
 ## 🛠️ Tech Stack
 
