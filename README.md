@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Sahil Ansari</h1>
 <h3 align="center">A passionate Front-End & MERN Stack Developer from India 🇮🇳</h3>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=786mdsahilansari&label=Profile%20views&color=0e75b6&style=flat" alt="786mdsahilansari" />
 </p>
 
-
------------------------
-
-
+---
 
 ## 🧑‍💻 About Me
-
-
-
 
 - 🌱 Currently learning **Backend with Node.js, Express, MongoDB**
 - 💼 Working on projects like: **Ecommerce Website**, **Online Exam System**, **Portfolio Website**, **Job Portal Management System**
@@ -23,13 +16,7 @@
 - 📫 Contact me: **786mdsahilansari@gmail.com** | 📱 +91-8969348814
 - ⚡ Fun fact: *I love building UI that feels alive and interactive!*
 
-
-
-
--------------
-
-
-
+---
 
 ## 💻 Coding & CSE Department Vibes
 
@@ -37,16 +24,11 @@
   <img src="https://i.ibb.co/Fw3RgpR/coding-banner.gif" alt="Coding Banner" width="100%" />
 </p>
 
-
-
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Computer+Science+%7C+Coding+Life;Frontend+%26+MERN+Stack+Developer;Love+to+Build+Something+Awesome!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Computer+Science+%7C+Coding+Life;Frontend+%26+MERN+Stack+Developer;Love+to+Build+Something+Awesome!" alt="Typing Animation" />
 </p>
 
---------
+---
 
 ## 🛠️ Tech Stack
 
@@ -54,26 +36,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,vscode,figma,postman" />
 </p>
 
--------
-
-
-
-
-
+---
 
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=786mdsahilansari&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  [![trophy](https://github-profile-trophy.vercel.app/?username=786mdsahilansari&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
-
------
-
-
-
+---
 
 ## 📊 GitHub Stats  
 
